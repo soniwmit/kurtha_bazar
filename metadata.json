@@ -1,0 +1,6 @@
+{
+  "name": "Kurtha Medical - Trusted Pharmacy in Kurtha",
+  "description": "Trusted Medical Store in Kurtha, Bihar for Genuine Medicines, Healthcare Products & Surgical Supplies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
