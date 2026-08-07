@@ -165,14 +165,7 @@ export const Footer: React.FC<FooterProps> = ({ onNavigate, onOpenWhatsappOrder 
         <div className="pt-8 flex flex-col md:flex-row items-center justify-between gap-4 text-xs text-slate-500">
           <p>
             © {new Date().getFullYear()} Kurtha Medical (Kurtha bazar). All rights reserved. |{' '}
-            <a
-              href="https://main.webmakerit.com"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="hover:text-slate-300 underline font-medium"
-            >
-              Developed by WMIT
-            </a>
+           <a href="#" className="wmit-popup-trigger hover:text-white underline transition-colors" target="_blank" rel="noopener noreferrer">Developed by WMIT</a>
           </p>
 
           <div className="flex flex-wrap items-center gap-4">
